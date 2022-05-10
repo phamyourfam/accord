@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\React-Discord-Clone-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webapp",
+		"files.exclude": {
+			"**/.git": false
+		}
+	}
+}
