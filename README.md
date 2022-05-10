@@ -1,4 +1,5 @@
-# new-api
+# accord-rest-api
+Backend for the chat app.
 
 > An awesome project based on Ts.ED framework
 
