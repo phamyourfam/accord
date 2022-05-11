@@ -1,10 +1,10 @@
 {
-  "type": "postgres",
-  "host": "ec2-54-216-185-51.eu-west-1.compute.amazonaws.com",
+  "type": "",
+  "host": "",
   "port": 5432,
-  "username": "rcfsjnabbgrjrn",
-  "password": "79cb3e5ceb126a9a4a76cd1a38e9254319d96fc7d84a61e92211f68eff26f218",
-  "database": "d4qdgi8sm338so",
+  "username": "",
+  "password": "",
+  "database": "",
   "ssl": true,
   "extra": {
     "ssl": {
